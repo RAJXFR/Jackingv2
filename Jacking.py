@@ -1,7 +1,5 @@
 import webbrowser
 webbrowser.open('https://t.me/hackjackingbot')
-
-
 #SirNawaz
 import requests
 import os
